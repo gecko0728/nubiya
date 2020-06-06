@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "838048",
+      "name": "7天无理由退货",
+      "font_class": "7tianwuliyoutuihuo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "908544",
+      "name": "免运费",
+      "font_class": "mianyunfei",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "1147047",
+      "name": "地图",
+      "font_class": "ditu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "9557788",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "76992",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "f00d9",
+      "unicode_decimal": 983257
+    },
+    {
+      "icon_id": "1314475",
+      "name": "我的",
+      "font_class": "daohanglan-05",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "2158137",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    }
+  ]
+}
