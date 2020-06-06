@@ -348,7 +348,7 @@
     "lodash.isarguments": "^3.1.0",
     "lodash.keys": "^3.1.2",
     "lodash.restparam": "^3.6.1",
-    "lodash.template": "^3.6.2",
+    "lodash.template": "^4.5.0",
     "lru-cache": "^2.7.3",
     "lodash.templatesettings": "^3.1.1",
     "map-visit": "^1.0.0",
